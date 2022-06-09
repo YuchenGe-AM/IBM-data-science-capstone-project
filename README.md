@@ -1,2 +1,2 @@
 # Coursera_Capstone
-It's mainly for capstone study
+It's mainly for the capstone project of IBM data science.
